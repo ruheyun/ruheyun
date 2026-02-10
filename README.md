@@ -1,9 +1,15 @@
+<div align="center">
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=B36A39D7&center=true&vCenter=true&width=500&lines=ruheyun+%E7%A5%9D%E6%82%A8%E4%BB%8A%E6%97%A5%E6%84%89%E5%BF%AB%EF%BC%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&center=true&vCenter=true&width=435&lines=ruheyun+%E7%A5%9D%E6%82%A8%E4%BB%8A%E6%97%A5%E6%84%89%E5%BF%AB%EF%BC%81;print('Wishing+you+a+pleasant+day!'))](https://git.io/typing-svg)
 
-[![ruheyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruheyun)](https://github.com/anuraghazra/github-readme-stats)
 
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ruheyun" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruheyun&layout=compact&langs_count=8" />
+<span>  </span>
+
+
+</div>
 
 
 <!--
