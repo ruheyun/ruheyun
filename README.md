@@ -5,4 +5,6 @@
 
 [![ruheyun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruheyun&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ruheyun&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
 </div>
