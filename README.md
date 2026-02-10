@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=ruheyun+%E7%A5%9D%E6%82%A8%E4%BB%8A%E6%97%A5%E6%84%89%E5%BF%AB%EF%BC%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B36A39D7&center=true&width=435&lines=ruheyun+%E7%A5%9D%E6%82%A8%E4%BB%8A%E6%97%A5%E6%84%89%E5%BF%AB%EF%BC%81)](https://git.io/typing-svg)
 
 [![ruheyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruheyun)](https://github.com/anuraghazra/github-readme-stats)
 
